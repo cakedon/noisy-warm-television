@@ -1,5 +1,5 @@
 # Noisy Warm Television
-NWT is a nonsensical poem generator.
+NWT is an artificial unintelligence script that generates nonsensical poems.
 
 *"Over return where,
 Build fruit silly dream being hate,
